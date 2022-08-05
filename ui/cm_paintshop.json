@@ -1,0 +1,85 @@
+{
+  "tgn_lexus_rcft_wtfisthiscar": [
+  
+    { 
+  "type": "carPaint", 
+  "name": "01 Car Paint",
+  "texture": "metal_detail.dds",
+  "mapsTexture": "ExtBodyMap.dds", 
+  "mapsAutoLevel": true, 
+  "defaultColor": "#FFFFFF" 
+},
+
+{ 
+  "type": "carPaint", 
+  "name": "02 Rim Paint",
+  "texture": "metal_detail_rim.dds",
+  "mapsTexture": "RimMap.dds", 
+  "mapsAutoLevel": true, 
+  "defaultColor": "#FFFFFF" 
+},
+
+{ 
+  "type": "carPaint", 
+  "name": "02 Rim Paint 2",
+  "texture": "metal_detail_rim_2.dds",
+  "mapsTexture": "RimMap2.dds", 
+  "mapsAutoLevel": true, 
+  "defaultColor": "#FFFFFF" 
+},
+
+
+{ 
+  "type": "color",
+  "name": "03 Caliber",
+  "texture": "metal_detail_caliper.dds",
+  "autoLevel": true,
+  "defaultColor": "#474747"
+},
+
+{ 
+  "type": "color",
+  "name": "04 Leather",
+  "texture": "IntLeather.dds",
+  "autoLevel": true,
+  "defaultColor": "#474747"
+},
+
+{ 
+  "type": "color",
+  "name": "05 Leather",
+  "texture": "gmp_gc8_alcantara_diffuse - Kopi.dds",
+  "autoLevel": true,
+  "defaultColor": "#474747"
+},
+
+{ 
+  "type": "color",
+  "name": "06 Alcantara",
+  "texture": "leather_5.dds",
+  "autoLevel": true,
+  "defaultColor": "#474747"
+},
+
+{ 
+  "type": "color",
+  "name": "07 Stitching",
+  "texture": "IntaaStich.dds",
+  "autoLevel": true,
+  "defaultColor": "#474747"
+},
+
+{ 
+  "type": "licensePlate", 
+  "style": "Europe", 
+  "texture": "Plate_D.dds",
+  "normals": "Plate_NM.dds" 
+},
+
+  ],
+}
+
+
+
+
+

@@ -1,0 +1,62 @@
+{
+  "01CarPaint": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF0B0C0F",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "02RimPaint": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF262626",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "02RimPaint2": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF5B3200",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "03Caliber": {
+    "enabled": true,
+    "colors": [
+      "#5B3200"
+    ]
+  },
+  "04Leather": {
+    "enabled": true,
+    "colors": [
+      "#474747"
+    ]
+  },
+  "05Leather": {
+    "enabled": true,
+    "colors": [
+      "#636363"
+    ]
+  },
+  "06Alcantara": {
+    "enabled": true,
+    "colors": [
+      "#636363"
+    ]
+  },
+  "07Stitching": {
+    "enabled": true,
+    "colors": [
+      "#5B3200"
+    ]
+  },
+  "licensePlate": {
+    "style": "Europe"
+  }
+}
